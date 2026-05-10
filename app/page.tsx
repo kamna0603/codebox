@@ -5,7 +5,7 @@ export default function Home() {
   return (
    
     <div>
-       <h1 className="font-inter text-2xl">Welcome To The Home Page</h1>
+       <h1 className="font-inter text-2xl">Welcome To The Home</h1>
        <Button>Subscribe</Button>
     </div>
   );
